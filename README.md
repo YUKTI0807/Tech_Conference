@@ -1,8 +1,3 @@
-Here’s a clean, professional **README.md** you can use for your Android Jetpack Compose event-details app **EventEase**.
-You can copy-paste this directly into your project.
-
----
-
 # 📱 EventEase
 
 A modern event-details UI built with **Android Studio** and **Jetpack Compose**.
