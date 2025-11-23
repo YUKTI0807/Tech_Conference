@@ -81,10 +81,7 @@ app/
 
 | Event Details                                  | Schedule                                       | Reviews                                        |
 | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| ![Tech_Conference_1](https://github.com/user-attachments/assets/6a9cd247-d768-4281-84c0-cf5c46be1cd3)
- | ![Tech_Conference_2](https://github.com/user-attachments/assets/6ca32fb6-14c0-4c58-ad68-8bc934f309a8)
- | ![Tech_Conference_3](https://github.com/user-attachments/assets/ef0b0afa-7b45-4aca-aefe-92e73afa143a)
- |
+| ![Tech_Conference_1](https://github.com/user-attachments/assets/6a9cd247-d768-4281-84c0-cf5c46be1cd3)| ![Tech_Conference_2](https://github.com/user-attachments/assets/6ca32fb6-14c0-4c58-ad68-8bc934f309a8) | ![Tech_Conference_3](https://github.com/user-attachments/assets/ef0b0afa-7b45-4aca-aefe-92e73afa143a) |
 
 ---
 
@@ -128,18 +125,4 @@ The app uses:
 * **LazyRow** for horizontal schedule list
 * **Card**, **Row**, **Column**, **Text**, **IconButton** for UI
 * **Material3 styles** for modern look
-* **Data classes** for schedules & reviews
-
----
-
-## 📄 License
-
-MIT License © 2024 Your Name
-
----
-
-If you'd like, I can also:
-✅ Generate the full source code
-✅ Create a GitHub-optimized README with badges
-✅ Add dark mode screenshots
-Just tell me!
+* **Data classes** for schedules & review
